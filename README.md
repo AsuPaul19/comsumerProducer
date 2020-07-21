@@ -9,6 +9,7 @@ make pandc
 
 ## Run Instructions
 ./pandc nb np nc x pTime cTime
+
 for example: ./pandc 7 5 3 15 1 1
 
 Project Description:
